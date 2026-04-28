@@ -12,6 +12,7 @@ public class PryIGClase6Vargas {
     
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
+       System.out.println("Clase 7: Programacion orientada a objetos");
        
        Felino tigre = new Felino("Robert", "Salvaje", "Carne de ciervo", 15, true);
        
